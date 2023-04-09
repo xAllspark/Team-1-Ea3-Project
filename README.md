@@ -6,9 +6,9 @@ Open command prompt
 
 Navigate to the folder containing the unzipped project:
 
-Navigate to the EA3pro folder using the following command:
+Navigate to the Team1 folder using the following command:
 
-cd ea3pro
+cd Team1
 
 Activate the virtual environment using the following command:
 
